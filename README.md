@@ -136,17 +136,3 @@ Safe LLM execution environments
 This project is intentionally minimal and focused on clarity over complexity.
 It is ideal for learning, experimentation, and showcasing agent-tool orchestration.
 
-📜 License
-MIT License
-
-
----
-
-If you want, I can also:
-- Add **diagrams**
-- Convert this to **GitHub-style README**
-- Add **Docker / .env support**
-- Make it **interview-ready explanation**
-
-Just tell me 👍
-::contentReference[oaicite:0]{index=0}
